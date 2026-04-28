@@ -108,10 +108,3 @@ Engineered prompts produced more controlled spectral energy, tighter frequency b
 | ChatGPT | Brainstorming and prompt design |
 | Claude (Anthropic) | Documentation and slide writing |
 
----
-
-## Course Context
-
-**Course:** CS 5588  
-**Theme:** Foundation Models for Speech, Music, and Sound AI  
-**Project:** DogTalk AI — AI Capstone, 2025
